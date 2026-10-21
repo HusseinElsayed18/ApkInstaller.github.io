@@ -48,6 +48,8 @@ Watch the **Android & VR APK Deployment Tool** in action.
 
 [![Android & VR APK Deployment Tool Demo](https://img.youtube.com/vi/y3o-JH2OkTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
+[![VR Clean Desk Policy Showcase](https://img.youtube.com/vi/U5biEtTzH60/maxresdefault.jpg)](https://www.youtube.com/watch?v=U5biEtTzH60)
+
 ▶️ [Watch the full demo on YouTube](https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
 
