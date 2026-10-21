@@ -49,10 +49,10 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 
 https://github.com/user-attachments/assets/0c802cfe-9119-4c5a-b27c-102473c8ca9a
 
-[▶️ Watch Android & VR APK Deployment Tool Demo](<Assets/video/Android%20%26%20VR%20APK%20Deployment%20Tool.mp4>)
+[ Watch Android & VR APK Deployment Tool Demo](<Assets/video/Android%20%26%20VR%20APK%20Deployment%20Tool.mp4>)
 
-▶️ [![Android & VR APK Deployment Tool](https://img.youtube.com/vi/y3o-JH2OkTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
+[![Watch Demo on YouTube](Assets/Images/youtube-thumbnail.png)](https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
 ## Screenshots
 
