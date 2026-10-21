@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://husseinelsayed18.github.io">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
   <a href="https://www.youtube.com/@egygamesstudios">📺 Egy Games Studios YouTube</a> &nbsp;&bull;&nbsp;
@@ -44,7 +45,9 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 
 ## Demo Video
 
-Watch the **Android & VR APK Deployment Tool** in action.
+▶️ Watch the **Android & VR APK Deployment Tool** in action.
+
+https://github.com/user-attachments/assets/0c802cfe-9119-4c5a-b27c-102473c8ca9a
 
 [▶️ Watch Android & VR APK Deployment Tool Demo](<Assets/video/Android%20%26%20VR%20APK%20Deployment%20Tool.mp4>)
 
