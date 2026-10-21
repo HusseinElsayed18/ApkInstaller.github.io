@@ -1,7 +1,8 @@
 {
   "AllowedVersions": [
     "1.0",
-    "2.0"
+    "2.0",
+    "3.0"
   ] ,
   "Link": [
     "https://github.com/HusseinElsayed18/ApkInstaller.github.io/releases/download/V1/"
