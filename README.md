@@ -50,7 +50,7 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 https://github.com/user-attachments/assets/0c802cfe-9119-4c5a-b27c-102473c8ca9a
 
 
-[▶️ Watch the full demo on YouTube](https://www.youtube.com/watch?v=y3o-JH2OkTE)
+[▶️ Watch demo on YouTube](https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
 
 ## Screenshots
