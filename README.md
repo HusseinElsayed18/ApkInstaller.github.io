@@ -36,6 +36,15 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 
 **Note:** Runtime requirements depend on how each executable was published, including whether the build is self-contained.
 
+## Demo Video
+
+Watch the **Android & VR APK Deployment Tool** in action.
+
+[![Android & VR APK Deployment Tool Demo](https://img.youtube.com/vi/y3o-JH2OkTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=y3o-JH2OkTE)
+
+▶️ [Watch the full demo on YouTube](https://www.youtube.com/watch?v=y3o-JH2OkTE)
+
+
 ## Screenshots
 
 Add screenshots of the application interface to showcase its functionality.
