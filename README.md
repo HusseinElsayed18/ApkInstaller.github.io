@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://husseinelsayed18.github.io">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.youtube.com/@egygamesstudios">📺 Egy Games Studios YouTube</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:husseinelsayed4g@gmail.com">📧 Email Me</a>
+</p>
+
 # Android & VR APK Deployment Tool
 
 A Windows desktop utility built with **C# and .NET 9** that simplifies APK installation on Android mobile devices and compatible VR headsets using **Android Debug Bridge (ADB)**.
@@ -40,9 +46,9 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 
 Watch the **Android & VR APK Deployment Tool** in action.
 
-[![Android & VR APK Deployment Tool Demo](https://img.youtube.com/vi/y3o-JH2OkTE/maxresdefault.jpg)](https://www.youtube.com/watch?v=y3o-JH2OkTE)
+[![Android & VR APK Deployment Tool Demo](https://img.youtube.com/vi/y3o-JH2OkTE/maxresdefault.jpg)] (https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
-▶️ [Watch the full demo on YouTube](https://www.youtube.com/watch?v=y3o-JH2OkTE)
+▶️ [Watch the full demo on YouTube] (https://www.youtube.com/watch?v=y3o-JH2OkTE)
 
 
 ## Screenshots
@@ -98,5 +104,11 @@ Unity Game Developer | C# Developer | XR Developer
 - **YouTube:** https://www.youtube.com/@egygamesstudios
 
 ---
+
+<p align="center">
+  <a href="https://husseinelsayed18.github.io">🌐 Portfolio</a> &nbsp;&bull;&nbsp;
+  <a href="https://www.youtube.com/@egygamesstudios">📺 Egy Games Studios YouTube</a> &nbsp;&bull;&nbsp;
+  <a href="mailto:husseinelsayed4g@gmail.com">📧 Email Me</a>
+</p>
 
 *Built with C#, .NET 9, Windows Forms, and Android Debug Bridge (ADB).* 
