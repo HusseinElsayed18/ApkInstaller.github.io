@@ -2,5 +2,8 @@
   "AllowedVersions": [
     "1.0",
     "2.0"
+  ] ,
+  "Link": [
+    "https//test/test.zip"
   ]
 }
