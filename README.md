@@ -45,7 +45,7 @@ The tool provides a simple graphical interface for managing APK deployment, moni
 
 ## Demo Video
 
-▶️ Watch the **Android & VR APK Deployment Tool** in action.
+▶️ Watch the **Android & VR APK Deployment Tool**.
 
 https://github.com/user-attachments/assets/0c802cfe-9119-4c5a-b27c-102473c8ca9a
 
@@ -55,26 +55,20 @@ https://github.com/user-attachments/assets/0c802cfe-9119-4c5a-b27c-102473c8ca9a
 
 ## Screenshots
 
-Add screenshots of the application interface to showcase its functionality.
-
-### Main Interface
 
 ![Main Interface](Assets/screenshots/1.png)
 ![Main Interface](Assets/screenshots/2.png)
 ![Main Interface](Assets/screenshots/3.png)
 
-### Installation Progress
 
 ![Installation Progress](Assets/screenshots/4.png)
 ![Installation Progress](Assets/screenshots/5.png)
 ![Installation Progress](Assets/screenshots/6.png)
 
-### Operation Logs
 
 ![Operation Logs](Assets/screenshots/7.png)
 ![Operation Logs](Assets/screenshots/8.png)
 
-> Replace these example image paths with your actual screenshots and commit the images to your repository.
 
 ## How to Use
 
